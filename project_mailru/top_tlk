@@ -1,0 +1,38 @@
+These are the top talking IP addresses sorted by amount of packets:
+	10.0.2.15	51
+
+	5.255.255.55	25
+
+	178.154.131.215	8
+
+	87.250.247.183	6
+
+	87.250.250.91	4
+
+	87.250.251.119	2
+
+	194.226.130.229	2
+
+	77.88.55.88	1
+
+	213.180.204.143	1
+These are the top talking IP addresses sorted by total bytes size :
+	5.255.255.55	29462
+
+	10.0.2.15	9537
+
+	87.250.247.183	4865
+
+	87.250.250.91	1149
+
+	178.154.131.215	780
+
+	87.250.251.119	692
+
+	194.226.130.229	599
+
+	77.88.55.88	60
+
+	213.180.204.143	60
+These are the top used Protocols sorted by percentage of traffic :
+	<class 'dpkt.tcp.TCP'>	100 %
